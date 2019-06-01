@@ -12,15 +12,15 @@ alias jrnl="source /journal/./writer.sh"
 alias viewjrnl="cd /journal;source ./review.sh"
 ```
 
-## Start Journaling
+## How it works?
+### Start Journaling
 To start note-taking, just type `jrnl` in your terminal, it should open up a VIM editor with the date and
-time.
+time. Also, it creates a folder and file with the current date, this is to ensure that you don't have to waste time writing the date everytime.
 
-## Review notes
+### Review notes
 To review your all your notes, just type `viewjrnl` in your terminal.
 
-
-## Other features
+### Other features
 It contains a spellchecker and word counter as well.
 
 Hope you find this simple tool useful!
