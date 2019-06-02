@@ -2,7 +2,7 @@
 
 ## What is it?
 It's a simple journal system that makes use of VIM editor and Bash. I wanted to have something that is
-minimal and secure.
+minimal and secure. Read more about it in [my blog](https://megacolorboy.com/posts/keep-a-programming-journal-using-vim-and-bash/)
 
 ## Procedure
 
